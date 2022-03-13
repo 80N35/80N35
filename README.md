@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @80N35
 - I'm a rock musician,
 - Ex-coder from the 90's and
-- I like themeing configuring and scripting OS's.
-- I did a little work on Conky for Mac here and
-- Have done sound-design for a Fox TV Show, Webshow.
+- I like theming configuring and scripting OS's.
+- I did a little work for Conky for Mac here and
+- I was designer/animation programmer and sound-designer for a Fox TV Webshow called The Visitor.
 - I have a Studio Art Degree, BA, with Music and General Science Minors.
 
 <!---
